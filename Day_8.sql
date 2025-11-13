@@ -35,7 +35,7 @@ Age category? Bas simple logic…
 Name length? LENGTH() does that.
 
 Phir woh bolte hain,
-“Par bhai… sirf un patients ko dikhana jinka naam 10 letters se lamba ho.”
+Par bhai… sirf un patients ko dikhana jinka naam 10 letters se lamba ho.
 
 Toh last me ek filter laga diya:
 WHERE LENGTH(name) > 10
